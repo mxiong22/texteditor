@@ -6,7 +6,7 @@ code snippets with or without any internet connection. The user is also able to 
 N/a
 
 # Usage 
-This application uses Javascript, webpack, amd IndexedDB 
+This application uses Javascript, HTML, CSS, webpack, and IndexedDB 
 
 # Website Link
 https://textingeditor.herokuapp.com/
